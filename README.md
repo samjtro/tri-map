@@ -1,9 +1,12 @@
 # tri-map
 ### what is this project?
+
 EPA Toxic Release Inventory (TRI) Mapping Software
 
-This project is meant to preprocess EPA TRI 2019 data and display all Carcinogenic and/or Clean Air Act-classified chemical-emitting facilities in Southern California, Los Angeles County specifically. This is an ongoing project, and can be accessed from 'save-socal.github.io/tri-mapping'. Contact savesocal@protonmail.com for information on the project and it's
-future applications.
+View this project LIVE at: https://fguattari.github.io/tri-map/
+Contact: fguattari-dev@protonmail.com
+
+This project is meant to preprocess EPA TRI 2019 data and display all Carcinogenic and/or Clean Air Act-classified chemical-emitting facilities in Southern California, Los Angeles County specifically. This is an ongoing project, and can be accessed from 'save-socal.github.io/tri-mapping'.
 
 Current functionality:
 
